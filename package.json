@@ -1,5 +1,8 @@
 {
   "name": "altscoreS1E7",
+  "scripts": {
+    "start": "yarn tsx src/index.ts"
+  },
   "packageManager": "yarn@4.1.1",
   "dependencies": {
     "cookie": "^1.0.2",
